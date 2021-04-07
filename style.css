@@ -1,0 +1,32 @@
+body{
+  background-color: #242c3c;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+	color: #cea1a0;
+}
+
+section {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+div {
+	cursor: pointer;
+	width: 20%;
+	height: 100px;
+  padding: 60px 0;
+  margin: 5px 0;
+	background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: solid 8px #880a05;
+  border-radius: 20px;
+  background-color:#ab7b7b;
+}
+
+
